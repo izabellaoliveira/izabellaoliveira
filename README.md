@@ -5,4 +5,4 @@ Meu nome é Izabella, sou estudante de ciência da computação em Minas Gerais.
 ### 🖱️📒Confira meu codepen:
 https://codepen.io/izzy80
 
-[![izabellaoliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=izabellaoliveira)](https://github.com/izabellaoliveira/github-readme-stats
+[![izabellaoliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=izabellaoliveira)
