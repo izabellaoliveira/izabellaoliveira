@@ -5,6 +5,9 @@ Meu nome é Izabella, sou estudante de ciência da computação em Minas Gerais.
 ### 🖱️📒Confira meu codepen:
 https://codepen.io/izzy80
 
+### Confira meu perfil em cssbattle:
+https://cssbattle.dev/player/izabellaoliveira
+
 
 ![izabellaoliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=izabellaoliveira&show_icons=true&theme=gruvbox)
 
