@@ -1,3 +1,3 @@
 
 # Olá 👋💻 
-Meu nome é Izabella, sou estudante de matemática computacional em Minas Gerais. ⛰️
+Meu nome é Izabella, sou estudante de Ciências Econômicas em Minas Gerais. ⛰️
